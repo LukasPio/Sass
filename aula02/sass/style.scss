@@ -1,0 +1,15 @@
+$btn-color: rgba(60, 57, 57, 0.67);
+$btn-width: 90px;
+$btn-height: 40px;
+
+.btn1 {
+  width: $btn-width;
+  height: $btn-height;
+  background-color: $btn-color;
+}
+
+.btn2 {
+  width: $btn-width;
+  height: $btn-height;
+  background-color: $btn-color;
+}
