@@ -1,0 +1,10 @@
+@import "./variables/colors/colors.scss";
+@import "./variables/common/common.scss";
+@import "./pages/cadastro";
+@import "./pages/login";
+
+#home-text {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #ff4003;
+}
